@@ -1,11 +1,6 @@
 import {exerciseList } from './data.js'
 console.log(exerciseList)
 
-const content = $('.content')
- const capitalize = (str) => {
-   return `${str[0].toUpperCase()}${str.slice(1)}`
- }
-
 let fields = {
     'username': 'Test User',
     'email': 'test@test.com',
@@ -16,6 +11,12 @@ let fields = {
     'bodyfat' : '7%',
     'workout_preferences': [1,2,3,4]
 }
+
+
+const content = $('.profile')
+ const capitalize = (str) => {
+   return `${str[0].toUpperCase()}${str.slice(1)}`
+ }
 
 let profile_picture = `
       <div class="col-md-3">
@@ -89,3 +90,5 @@ $('.container').on('click', '#btn-save', ()=>{
         $('#btn-save').text('Save')
     }, 1500)
 })
+
+export default {fields}
