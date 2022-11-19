@@ -1,24 +1,10 @@
 import fields from './profile.js'
 import workouts from './workouts.json' assert {type: 'json'};
-// console.log(workouts)
 
-// let data_set = []
-// for (let x of workouts){
-//     let d = {x:x['date'], y:x['workouts'].length}
-//     date_set.push(d)
-// }
+function getRandomArbitrary(min, max) {
+  return Math.floor(Math.random() * (max - min) + min);
+}
 
-// let point_data = []
-// for (let x of workouts){
-//     let d = {x:x['date'], y:x['workouts'].length}
-//     point_data.push(d)
-// }
-// const data = {
-//     datasets: [{
-//         data: workouts,
-//     }],
-//     // labels:['Date', 'Workouts']
-// }
 let muscle_datasets = {};
 for (let x of workouts){
     let d = x['date']
@@ -90,3 +76,59 @@ const ctx = document.getElementById('myChart');
       }
     },
   });
+
+  // Object.entries(work).forEach(([k,v])=>{
+
+    // console.log(calendarInstance)
+  // })
+
+  let muscles = ['Chest', 'Biceps', 'Back', 'Triceps', 'Shoulders', 'Abs', 'Legs', 'Traps']
+  let colors = ['#ffff00', '#ff7f00', '#cc00af', '#ff0000', '#00ff00', '#7308a5', '#00aeae', '#0000ff']
+  let colormap = {};
+  muscles.forEach((m, i) => {
+    colormap[m] = colors[i];
+  })
+
+  var calendarInstance = new calendarJs( "myCalendar", {
+    exportEventsEnabled: true, 
+    manualEditingEnabled: true, 
+    showTimesInMainCalendarEvents: false,
+    // minimumDayHeight: 0,
+    manualEditingEnabled: true,
+    organizerName: "Your Name",
+    organizerEmailAddress: "your@email.address",
+    visibleDays: [ 0, 1, 2, 3, 4, 5, 6 ]
+  } ); 
+  function addHours(numOfHours, date = new Date()) {
+  date.setTime(date.getTime() + numOfHours * 60 * 70 * 1000);
+
+  return date;
+}
+  
+  calendarInstance.addEvents( getEvents() );
+
+  function getEvents() {
+    let events = [];
+    workouts.forEach((w)=>{
+      if (w.workouts.length != 0){
+      let counter = 0;
+      Object.entries(w.workouts).map(([k,v])=>{
+        let desc =  v.map((e)=> `\n\t* ${e}  - ${getRandomArbitrary(2,4)} SETS X ${getRandomArbitrary(3,8)} REPS`).join('')
+        let new_d = {}
+        new_d.title = `${k} Workouts`
+        new_d.description = desc
+        new_d.color = colormap[k]
+        new_d.from = addHours(counter, new Date(w.date*1000))
+        new_d.to = addHours(counter+1, new Date(w.date*1000))
+        new_d.group = k;
+        counter= counter + 1;
+        // console.log(new_d)
+        if (new_d.color == '#ffff00')
+          new_d.colorText = '#000000'
+        events.push(new_d);
+      });
+      }
+    })
+    // console.log(events)
+    return events;
+  }
