@@ -12,7 +12,7 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <title>User Home</title>
 </head>
-<body>
+<body class="bootstrap-dark">
   <!-- <h1>Elevate fitness homepage</h1> -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
@@ -26,7 +26,7 @@
           <a class="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="/user/profile.html">Edit Profile</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -48,7 +48,19 @@
 </nav>
 <div class="content container bootstrap snippets">
     <h1>Elevate Dashboard</h1>
-    <div id="myCalendar"></div>
+    <div class="donuts row">
+      <div class="col gx-3">
+        <canvas id="donut"></canvas>
+      </div>
+      <div class="col gx-3 mb-5">
+        <canvas id="radar"></canvas>
+      </div>
+    </div>
+    <div class="container mb-5">
+    <h1>Workout Calendar</h1>
+      <div id="myCalendar"></div>
+    </div>
+    <h1>Workout History</h1>
     <canvas id="myChart"></canvas>
 </div>
 <script type="text/javascript" src="../lib/calendarjs.min.js"></script>

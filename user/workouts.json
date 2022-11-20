@@ -1,139 +1,2131 @@
 [
   {
-    "date": "1651377600",
+    "date": "1641013200",
+    "workouts": {
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ]
+    },
+    "total": 12
+  },
+  {
+    "date": "1641099600",
+    "workouts": {
+      "Triceps": [
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 12
+  },
+  {
+    "date": "1641186000",
     "workouts": {
       "Back": [
-        "Back Extension"
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1641272400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1641358800",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1641445200",
+    "workouts": {
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
       ],
       "Chest": [
         "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
+        "Incline Bench Press"
       ]
     },
     "total": 9
   },
   {
-    "date": "1651464000",
+    "date": "1641531600",
     "workouts": [],
     "total": 0
   },
   {
-    "date": "1651550400",
-    "workouts": {
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls",
-        "Hammer Curls"
-      ],
-      "Back": [
-        "Back Extension"
-      ]
-    },
-    "total": 6
-  },
-  {
-    "date": "1651636800",
-    "workouts": {
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ]
-    },
-    "total": 2
-  },
-  {
-    "date": "1651723200",
+    "date": "1641618000",
     "workouts": {
       "Abs": [
-        "Deadbug",
-        "Leg Raises",
-        "Russian Twist"
+        "Planks"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1641704400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1641790800",
+    "workouts": {
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ]
+    },
+    "total": 12
+  },
+  {
+    "date": "1641877200",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 5
+  },
+  {
+    "date": "1641963600",
+    "workouts": {
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 12
+  },
+  {
+    "date": "1642050000",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
       ]
     },
     "total": 3
   },
   {
-    "date": "1651809600",
+    "date": "1642136400",
+    "workouts": {
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 5
+  },
+  {
+    "date": "1642222800",
     "workouts": [],
     "total": 0
   },
   {
-    "date": "1651896000",
+    "date": "1642309200",
     "workouts": [],
     "total": 0
   },
   {
-    "date": "1651982400",
+    "date": "1642395600",
+    "workouts": {
+      "Back": [
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ]
+    },
+    "total": 12
+  },
+  {
+    "date": "1642482000",
+    "workouts": {
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 13
+  },
+  {
+    "date": "1642568400",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1642654800",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 1
+  },
+  {
+    "date": "1642741200",
     "workouts": {
       "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 12
+  },
+  {
+    "date": "1642827600",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 10
+  },
+  {
+    "date": "1642914000",
+    "workouts": {
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 10
+  },
+  {
+    "date": "1643000400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1643086800",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1643173200",
+    "workouts": {
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 4
+  },
+  {
+    "date": "1643259600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1643346000",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 1
+  },
+  {
+    "date": "1643432400",
+    "workouts": {
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1643518800",
+    "workouts": {
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
       ]
     },
     "total": 2
   },
   {
-    "date": "1652068800",
+    "date": "1643605200",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1643691600",
     "workouts": {
-      "Shoulders": [
-        "Upright Rows"
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 2
+  },
+  {
+    "date": "1643778000",
+    "workouts": {
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
       ],
       "Biceps": [
-        "Barbell Bicep Curls",
-        "Hammer Curls",
-        "Dumbell Bicep Curls"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Leg Raises",
-        "Russian Twist"
+        "Machine Bicep Curls"
       ]
     },
     "total": 9
   },
   {
-    "date": "1652155200",
+    "date": "1643864400",
     "workouts": {
-      "Biceps": [
-        "Hammer Curls",
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
+      "Triceps": [
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher"
       ],
       "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ]
+    },
+    "total": 9
+  },
+  {
+    "date": "1643950800",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1644037200",
+    "workouts": {
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1644123600",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1644210000",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 1
+  },
+  {
+    "date": "1644296400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1644382800",
+    "workouts": {
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1644469200",
+    "workouts": {
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1644555600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1644642000",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1644728400",
+    "workouts": {
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 9
+  },
+  {
+    "date": "1644814800",
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 4
+  },
+  {
+    "date": "1644901200",
+    "workouts": {
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
       ],
       "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ]
+    },
+    "total": 9
+  },
+  {
+    "date": "1644987600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1645074000",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1645160400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1645246800",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1645333200",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Back": [
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 8
+  },
+  {
+    "date": "1645419600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1645506000",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1645592400",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
+      ]
+    },
+    "total": 4
+  },
+  {
+    "date": "1645678800",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ]
+    },
+    "total": 6
+  },
+  {
+    "date": "1645765200",
+    "workouts": {
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1645851600",
+    "workouts": {
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1645938000",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Back": [
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
+      ]
+    },
+    "total": 8
+  },
+  {
+    "date": "1646024400",
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1646110800",
+    "workouts": {
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ]
+    },
+    "total": 8
+  },
+  {
+    "date": "1646197200",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1646283600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1646370000",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1646456400",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ]
+    },
+    "total": 4
+  },
+  {
+    "date": "1646542800",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1646629200",
+    "workouts": {
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1646715600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1646802000",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1646888400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1646974800",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1647061200",
+    "workouts": {
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ]
+    },
+    "total": 8
+  },
+  {
+    "date": "1647147600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1647230400",
+    "workouts": {
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 13
+  },
+  {
+    "date": "1647316800",
+    "workouts": {
+      "Triceps": [
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 8
+  },
+  {
+    "date": "1647403200",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1647489600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1647576000",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1647662400",
+    "workouts": {
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 4
+  },
+  {
+    "date": "1647748800",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1647835200",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1647921600",
+    "workouts": {
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ]
+    },
+    "total": 9
+  },
+  {
+    "date": "1648008000",
+    "workouts": {
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1648094400",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1648180800",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 12
+  },
+  {
+    "date": "1648267200",
+    "workouts": {
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 5
+  },
+  {
+    "date": "1648353600",
+    "workouts": {
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1648440000",
+    "workouts": {
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1648526400",
+    "workouts": {
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 10
+  },
+  {
+    "date": "1648612800",
+    "workouts": {
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 8
+  },
+  {
+    "date": "1648699200",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 1
+  },
+  {
+    "date": "1648785600",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 10
+  },
+  {
+    "date": "1648872000",
+    "workouts": {
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Back": [
+        "Deadlift",
+        "Incline Dumbbell Row",
+        "Bent-Over Row"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 14
+  },
+  {
+    "date": "1648958400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1649044800",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 5
+  },
+  {
+    "date": "1649131200",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1649217600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1649304000",
+    "workouts": {
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1649390400",
+    "workouts": {
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 9
+  },
+  {
+    "date": "1649476800",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 1
+  },
+  {
+    "date": "1649563200",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1649649600",
+    "workouts": {
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1649736000",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1649822400",
+    "workouts": {
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 6
+  },
+  {
+    "date": "1649908800",
+    "workouts": {
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 13
+  },
+  {
+    "date": "1649995200",
+    "workouts": {
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 6
+  },
+  {
+    "date": "1650081600",
+    "workouts": {
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 9
+  },
+  {
+    "date": "1650168000",
+    "workouts": {
+      "Back": [
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1650254400",
+    "workouts": {
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 13
+  },
+  {
+    "date": "1650340800",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Back": [
+        "Deadlift",
+        "Incline Dumbbell Row",
+        "Bent-Over Row"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ]
+    },
+    "total": 13
+  },
+  {
+    "date": "1650427200",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1650513600",
+    "workouts": {
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1650600000",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ]
+    },
+    "total": 13
+  },
+  {
+    "date": "1650686400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1650772800",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1650859200",
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 13
+  },
+  {
+    "date": "1650945600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1651032000",
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 14
+  },
+  {
+    "date": "1651118400",
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 12
+  },
+  {
+    "date": "1651204800",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 13
+  },
+  {
+    "date": "1651291200",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 13
+  },
+  {
+    "date": "1651377600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1651464000",
+    "workouts": {
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1651550400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1651636800",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 1
+  },
+  {
+    "date": "1651723200",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ]
+    },
+    "total": 10
+  },
+  {
+    "date": "1651809600",
+    "workouts": {
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 10
+  },
+  {
+    "date": "1651896000",
+    "workouts": {
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 4
+  },
+  {
+    "date": "1651982400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1652068800",
+    "workouts": {
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1652155200",
+    "workouts": {
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
       ]
     },
     "total": 11
@@ -141,20 +2133,21 @@
   {
     "date": "1652241600",
     "workouts": {
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
       ],
       "Abs": [
-        "Russian Twist",
-        "Deadbug",
-        "Leg Raises"
+        "Planks"
       ],
-      "Back": [
-        "Back Extension"
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
       ]
     },
-    "total": 6
+    "total": 7
   },
   {
     "date": "1652328000",
@@ -163,76 +2156,112 @@
   },
   {
     "date": "1652414400",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ]
+    },
+    "total": 11
   },
   {
     "date": "1652500800",
     "workouts": {
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
       "Chest": [
-        "Cables Flyes",
+        "Incline Bench Press",
         "Chest Dips"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
       ]
     },
-    "total": 4
+    "total": 5
   },
   {
     "date": "1652587200",
     "workouts": {
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Abs": [
+        "Planks"
       ],
       "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+        "Chest Dips",
+        "Incline Bench Press"
       ],
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
       ]
     },
-    "total": 6
+    "total": 8
   },
   {
     "date": "1652673600",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ]
+    },
+    "total": 5
   },
   {
     "date": "1652760000",
     "workouts": {
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
       "Triceps": [
-        "Seated Triceps Press",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
         "Cable Triceps Pushdowns"
       ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Russian Twist",
-        "Deadbug"
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
       ],
       "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
+        "Machine Bicep Curls"
       ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
+      "Abs": [
+        "Planks"
       ]
     },
-    "total": 13
+    "total": 10
   },
   {
     "date": "1652846400",
@@ -242,70 +2271,54 @@
   {
     "date": "1652932800",
     "workouts": {
-      "Back": [
-        "Back Extension"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
+      "Biceps": [
+        "Machine Bicep Curls"
       ]
     },
-    "total": 8
+    "total": 1
   },
   {
     "date": "1653019200",
     "workouts": {
-      "Shoulders": [
-        "Upright Rows"
+      "Abs": [
+        "Planks"
       ],
       "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
       ],
       "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
       ],
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
+      "Back": [
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
       ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
       ]
     },
-    "total": 10
+    "total": 12
   },
   {
     "date": "1653105600",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ]
+    },
+    "total": 2
   },
   {
     "date": "1653192000",
-    "workouts": {
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Deadbug",
-        "Leg Raises"
-      ]
-    },
-    "total": 5
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1653278400",
@@ -315,245 +2328,188 @@
   {
     "date": "1653364800",
     "workouts": {
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ]
-    },
-    "total": 2
-  },
-  {
-    "date": "1653451200",
-    "workouts": {
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ]
-    },
-    "total": 5
-  },
-  {
-    "date": "1653537600",
-    "workouts": {
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
       "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
+        "Planks"
       ],
       "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
+        "Pullup Shrug",
+        "Rack Pulls"
       ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ]
-    },
-    "total": 9
-  },
-  {
-    "date": "1653624000",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1653710400",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1653796800",
-    "workouts": {
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
+      "Biceps": [
+        "Machine Bicep Curls"
       ],
       "Back": [
-        "Back Extension"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
+        "Deadlift",
+        "Incline Dumbbell Row",
+        "Bent-Over Row"
       ],
       "Shoulders": [
-        "Upright Rows"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
-      ]
-    },
-    "total": 9
-  },
-  {
-    "date": "1653883200",
-    "workouts": {
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ]
-    },
-    "total": 2
-  },
-  {
-    "date": "1653969600",
-    "workouts": {
-      "Back": [
-        "Back Extension"
-      ],
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
+        "Military Press"
       ],
       "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
+        "Chest Dips",
+        "Incline Bench Press"
       ]
     },
     "total": 10
   },
   {
-    "date": "1654056000",
+    "date": "1653451200",
     "workouts": {
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
       "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
+        "Machine Bicep Curls"
       ]
     },
-    "total": 9
+    "total": 1
   },
   {
-    "date": "1654142400",
+    "date": "1653537600",
+    "workouts": {
+      "Back": [
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1653624000",
+    "workouts": {
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 4
+  },
+  {
+    "date": "1653710400",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ]
+    },
+    "total": 6
+  },
+  {
+    "date": "1653796800",
     "workouts": [],
     "total": 0
   },
   {
-    "date": "1654228800",
+    "date": "1653883200",
     "workouts": {
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
-      ],
       "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Leg Raises",
-        "Russian Twist"
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
       ]
     },
-    "total": 9
+    "total": 3
   },
   {
-    "date": "1654315200",
+    "date": "1653969600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1654056000",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1654142400",
     "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
       "Chest": [
         "Chest Dips",
-        "Cables Flyes"
+        "Incline Bench Press"
+      ]
+    },
+    "total": 2
+  },
+  {
+    "date": "1654228800",
+    "workouts": {
+      "Abs": [
+        "Planks"
       ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
       ],
       "Biceps": [
-        "Hammer Curls",
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls"
+        "Machine Bicep Curls"
       ],
-      "Abs": [
-        "Russian Twist",
-        "Deadbug",
-        "Leg Raises"
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
       ]
     },
     "total": 11
   },
   {
+    "date": "1654315200",
+    "workouts": [],
+    "total": 0
+  },
+  {
     "date": "1654401600",
-    "workouts": {
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Hammer Curls",
-        "Barbell Bicep Curls"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Russian Twist",
-        "Deadbug"
-      ]
-    },
-    "total": 13
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1654488000",
     "workouts": {
-      "Shoulders": [
-        "Upright Rows"
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
       ],
       "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Shoulders": [
+        "Military Press"
       ]
     },
-    "total": 3
+    "total": 11
   },
   {
     "date": "1654574400",
@@ -562,83 +2518,56 @@
   },
   {
     "date": "1654660800",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1654747200",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1654833600",
     "workouts": {
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
       ],
       "Chest": [
-        "Cables Flyes",
+        "Incline Bench Press",
         "Chest Dips"
       ],
-      "Shoulders": [
-        "Upright Rows"
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
       ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
+      "Abs": [
+        "Planks"
       ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
       ]
     },
     "total": 11
   },
   {
-    "date": "1654747200",
-    "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Hammer Curls",
-        "Barbell Bicep Curls"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Back": [
-        "Back Extension"
-      ]
-    },
-    "total": 12
-  },
-  {
-    "date": "1654833600",
-    "workouts": [],
-    "total": 0
-  },
-  {
     "date": "1654920000",
     "workouts": {
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Leg Raises",
-        "Deadbug"
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
       ],
       "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
+      ],
+      "Shoulders": [
+        "Military Press"
       ]
     },
     "total": 7
@@ -646,59 +2575,42 @@
   {
     "date": "1655006400",
     "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 6
+  },
+  {
+    "date": "1655092800",
+    "workouts": {
       "Triceps": [
         "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Back": [
-        "Back Extension"
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
       ]
     },
     "total": 3
   },
   {
-    "date": "1655092800",
-    "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Hammer Curls",
-        "Barbell Bicep Curls"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ]
-    },
-    "total": 10
-  },
-  {
     "date": "1655179200",
     "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Biceps": [
-        "Hammer Curls",
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls"
+      "Shoulders": [
+        "Military Press"
       ]
     },
-    "total": 6
+    "total": 1
   },
   {
     "date": "1655265600",
@@ -708,18 +2620,18 @@
   {
     "date": "1655352000",
     "workouts": {
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
       ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
+      "Shoulders": [
+        "Military Press"
       ],
-      "Biceps": [
-        "Hammer Curls",
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls"
+      "Back": [
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
       ]
     },
     "total": 7
@@ -727,734 +2639,820 @@
   {
     "date": "1655438400",
     "workouts": {
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
+      "Biceps": [
+        "Machine Bicep Curls"
       ]
     },
-    "total": 7
+    "total": 1
   },
   {
     "date": "1655524800",
     "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
       "Chest": [
-        "Cables Flyes",
+        "Incline Bench Press",
         "Chest Dips"
       ],
-      "Shoulders": [
-        "Upright Rows"
-      ],
       "Triceps": [
+        "EX Bar Skullcrusher",
         "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
+        "Close-Grip Pushups"
       ]
     },
-    "total": 7
+    "total": 8
   },
   {
     "date": "1655611200",
-    "workouts": {
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Hammer Curls",
-        "Barbell Bicep Curls"
-      ]
-    },
-    "total": 3
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1655697600",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1655784000",
     "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
       "Abs": [
-        "Russian Twist",
-        "Deadbug",
-        "Leg Raises"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
+        "Planks"
       ],
       "Biceps": [
-        "Hammer Curls",
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls"
-      ]
-    },
-    "total": 13
-  },
-  {
-    "date": "1655870400",
-    "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ]
-    },
-    "total": 8
-  },
-  {
-    "date": "1655956800",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1656043200",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1656129600",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1656216000",
-    "workouts": {
-      "Back": [
-        "Back Extension"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
-      ]
-    },
-    "total": 7
-  },
-  {
-    "date": "1656302400",
-    "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
-      ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ]
-    },
-    "total": 6
-  },
-  {
-    "date": "1656388800",
-    "workouts": {
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
-      ],
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Back": [
-        "Back Extension"
+        "Machine Bicep Curls"
       ],
       "Triceps": [
         "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ]
-    },
-    "total": 12
-  },
-  {
-    "date": "1656475200",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1656561600",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1656648000",
-    "workouts": {
-      "Back": [
-        "Back Extension"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Leg Raises",
-        "Russian Twist"
-      ]
-    },
-    "total": 4
-  },
-  {
-    "date": "1656734400",
-    "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
       ],
       "Back": [
-        "Back Extension"
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
       ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Hammer Curls",
-        "Barbell Bicep Curls"
+      "Shoulders": [
+        "Military Press"
       ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ]
-    },
-    "total": 8
-  },
-  {
-    "date": "1656820800",
-    "workouts": {
       "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Hammer Curls",
-        "Barbell Bicep Curls"
-      ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
+        "Incline Bench Press",
+        "Chest Dips"
       ]
     },
     "total": 11
   },
   {
-    "date": "1656907200",
+    "date": "1655784000",
     "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
       "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
       ],
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
-      ]
-    },
-    "total": 13
-  },
-  {
-    "date": "1656993600",
-    "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
-      ],
-      "Biceps": [
-        "Hammer Curls",
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls"
-      ]
-    },
-    "total": 8
-  },
-  {
-    "date": "1657080000",
-    "workouts": {
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
-      ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Hammer Curls",
-        "Barbell Bicep Curls"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ]
-    },
-    "total": 10
-  },
-  {
-    "date": "1657166400",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1657252800",
-    "workouts": {
       "Chest": [
         "Chest Dips",
-        "Cables Flyes"
+        "Incline Bench Press"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1655870400",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1655956800",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
       ]
     },
     "total": 2
   },
   {
-    "date": "1657339200",
+    "date": "1656043200",
     "workouts": {
       "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ]
-    },
-    "total": 10
-  },
-  {
-    "date": "1657425600",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1657512000",
-    "workouts": {
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Deadbug",
-        "Leg Raises"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ]
-    },
-    "total": 9
-  },
-  {
-    "date": "1657598400",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1657684800",
-    "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Deadbug",
-        "Leg Raises"
-      ],
-      "Back": [
-        "Back Extension"
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
       ],
       "Biceps": [
-        "Dumbell Bicep Curls",
-        "Hammer Curls",
-        "Barbell Bicep Curls"
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 4
+  },
+  {
+    "date": "1656129600",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
       ],
       "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ]
-    },
-    "total": 12
-  },
-  {
-    "date": "1657771200",
-    "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Russian Twist",
-        "Deadbug"
-      ],
-      "Biceps": [
-        "Hammer Curls",
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ]
-    },
-    "total": 13
-  },
-  {
-    "date": "1657857600",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1657944000",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1658030400",
-    "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls",
-        "Hammer Curls"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Leg Raises",
-        "Deadbug"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ]
-    },
-    "total": 12
-  },
-  {
-    "date": "1658116800",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1658203200",
-    "workouts": {
-      "Back": [
-        "Back Extension"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ]
-    },
-    "total": 3
-  },
-  {
-    "date": "1658289600",
-    "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
       ]
     },
     "total": 7
   },
   {
-    "date": "1658376000",
+    "date": "1656216000",
     "workouts": {
-      "Biceps": [
-        "Hammer Curls",
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
-      ]
-    },
-    "total": 9
-  },
-  {
-    "date": "1658462400",
-    "workouts": {
-      "Biceps": [
-        "Hammer Curls",
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls"
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
       ]
     },
     "total": 3
   },
   {
-    "date": "1658548800",
+    "date": "1656302400",
     "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Leg Raises",
-        "Russian Twist"
-      ]
-    },
-    "total": 4
-  },
-  {
-    "date": "1658635200",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1658721600",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1658808000",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1658894400",
-    "workouts": {
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
       "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
+        "Pullup Shrug",
+        "Rack Pulls"
       ],
       "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
+        "Incline Bench Press",
+        "Chest Dips"
       ],
-      "Abs": [
-        "Deadbug",
-        "Leg Raises",
-        "Russian Twist"
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
       ]
     },
     "total": 11
   },
   {
-    "date": "1658980800",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1659067200",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1659153600",
+    "date": "1656388800",
     "workouts": {
-      "Back": [
-        "Back Extension"
-      ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ]
-    },
-    "total": 3
-  },
-  {
-    "date": "1659240000",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1659326400",
-    "workouts": {
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
       "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ]
-    },
-    "total": 4
-  },
-  {
-    "date": "1659412800",
-    "workouts": {
-      "Biceps": [
-        "Hammer Curls",
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls"
-      ]
-    },
-    "total": 3
-  },
-  {
-    "date": "1659499200",
-    "workouts": {
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
       "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
+        "Planks"
       ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls",
-        "Hammer Curls"
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
       ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Shoulders": [
-        "Upright Rows"
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
       ]
     },
     "total": 9
   },
   {
-    "date": "1659585600",
+    "date": "1656475200",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 6
+  },
+  {
+    "date": "1656561600",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ]
+    },
+    "total": 9
+  },
+  {
+    "date": "1656648000",
+    "workouts": {
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1656734400",
+    "workouts": {
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1656820800",
     "workouts": [],
     "total": 0
+  },
+  {
+    "date": "1656907200",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ]
+    },
+    "total": 4
+  },
+  {
+    "date": "1656993600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1657080000",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1657166400",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ]
+    },
+    "total": 10
+  },
+  {
+    "date": "1657252800",
+    "workouts": {
+      "Back": [
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
+      ]
+    },
+    "total": 6
+  },
+  {
+    "date": "1657339200",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1657425600",
+    "workouts": {
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ]
+    },
+    "total": 8
+  },
+  {
+    "date": "1657512000",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1657598400",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ]
+    },
+    "total": 4
+  },
+  {
+    "date": "1657684800",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1657771200",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 12
+  },
+  {
+    "date": "1657857600",
+    "workouts": {
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ]
+    },
+    "total": 12
+  },
+  {
+    "date": "1657944000",
+    "workouts": {
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ]
+    },
+    "total": 8
+  },
+  {
+    "date": "1658030400",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1658116800",
+    "workouts": {
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 5
+  },
+  {
+    "date": "1658203200",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 1
+  },
+  {
+    "date": "1658289600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1658376000",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 1
+  },
+  {
+    "date": "1658462400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1658548800",
+    "workouts": {
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ]
+    },
+    "total": 8
+  },
+  {
+    "date": "1658635200",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
+      ]
+    },
+    "total": 6
+  },
+  {
+    "date": "1658721600",
+    "workouts": {
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1658808000",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Back": [
+        "Deadlift",
+        "Incline Dumbbell Row",
+        "Bent-Over Row"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1658894400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1658980800",
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ]
+    },
+    "total": 10
+  },
+  {
+    "date": "1659067200",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ]
+    },
+    "total": 6
+  },
+  {
+    "date": "1659153600",
+    "workouts": {
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ]
+    },
+    "total": 8
+  },
+  {
+    "date": "1659240000",
+    "workouts": {
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ]
+    },
+    "total": 5
+  },
+  {
+    "date": "1659326400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1659412800",
+    "workouts": {
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Back": [
+        "Deadlift",
+        "Incline Dumbbell Row",
+        "Bent-Over Row"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 14
+  },
+  {
+    "date": "1659499200",
+    "workouts": {
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1659585600",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ]
+    },
+    "total": 4
   },
   {
     "date": "1659672000",
@@ -1463,90 +3461,118 @@
   },
   {
     "date": "1659758400",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ]
+    },
+    "total": 12
   },
   {
     "date": "1659844800",
     "workouts": {
       "Back": [
-        "Back Extension"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Leg Raises",
-        "Russian Twist"
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
       ],
       "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
+        "Incline Bench Press",
+        "Chest Dips"
       ]
     },
-    "total": 8
+    "total": 5
   },
   {
     "date": "1659931200",
     "workouts": {
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls",
-        "Hammer Curls"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
       ],
       "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
       ]
     },
-    "total": 7
+    "total": 12
   },
   {
     "date": "1660017600",
     "workouts": {
-      "Abs": [
-        "Deadbug",
-        "Leg Raises",
-        "Russian Twist"
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
       ],
       "Shoulders": [
-        "Upright Rows"
+        "Military Press"
       ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls",
-        "Hammer Curls"
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
       ]
     },
-    "total": 7
+    "total": 11
   },
   {
     "date": "1660104000",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ]
+    },
+    "total": 2
   },
   {
     "date": "1660190400",
-    "workouts": {
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ]
-    },
-    "total": 5
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1660276800",
@@ -1557,191 +3583,167 @@
     "date": "1660363200",
     "workouts": {
       "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ]
-    },
-    "total": 4
-  },
-  {
-    "date": "1660449600",
-    "workouts": {
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Shoulders": [
-        "Upright Rows"
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
       ]
     },
     "total": 3
   },
   {
-    "date": "1660536000",
+    "date": "1660449600",
     "workouts": {
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
-      "Shoulders": [
-        "Upright Rows"
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
       ],
       "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
+        "Planks"
       ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
       ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Shoulders": [
+        "Military Press"
       ]
     },
-    "total": 10
+    "total": 11
   },
   {
-    "date": "1660622400",
+    "date": "1660536000",
     "workouts": [],
     "total": 0
   },
   {
-    "date": "1660708800",
+    "date": "1660622400",
     "workouts": {
       "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
+        "Pullup Shrug",
+        "Rack Pulls"
       ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
       ]
     },
-    "total": 4
+    "total": 9
+  },
+  {
+    "date": "1660708800",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 2
   },
   {
     "date": "1660795200",
     "workouts": {
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
       ],
-      "Biceps": [
-        "Hammer Curls",
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls"
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
       ]
     },
     "total": 5
   },
   {
     "date": "1660881600",
-    "workouts": {
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ]
-    },
-    "total": 2
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1660968000",
     "workouts": {
       "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Leg Raises",
-        "Russian Twist"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Shoulders": [
-        "Upright Rows"
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
       ]
     },
-    "total": 12
+    "total": 3
   },
   {
     "date": "1661054400",
     "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Deadbug",
-        "Leg Raises"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
       "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Biceps": [
-        "Hammer Curls",
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls"
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
       ],
       "Back": [
-        "Back Extension"
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
       ]
     },
-    "total": 12
+    "total": 6
   },
   {
     "date": "1661140800",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher"
+      ]
+    },
+    "total": 7
   },
   {
     "date": "1661227200",
-    "workouts": {
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Leg Raises",
-        "Deadbug"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ]
-    },
-    "total": 9
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1661313600",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ]
+    },
+    "total": 3
   },
   {
     "date": "1661400000",
@@ -1751,56 +3753,57 @@
   {
     "date": "1661486400",
     "workouts": {
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
+      "Shoulders": [
+        "Military Press"
       ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Hammer Curls",
-        "Barbell Bicep Curls"
-      ],
-      "Back": [
-        "Back Extension"
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
       ]
     },
-    "total": 6
+    "total": 4
   },
   {
     "date": "1661572800",
     "workouts": {
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+      "Abs": [
+        "Planks"
       ],
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
       ]
     },
-    "total": 5
+    "total": 4
   },
   {
     "date": "1661659200",
     "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
       "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
       ],
       "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
       ]
     },
-    "total": 7
+    "total": 11
   },
   {
     "date": "1661745600",
@@ -1809,134 +3812,80 @@
   },
   {
     "date": "1661832000",
-    "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ]
-    },
-    "total": 1
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1661918400",
     "workouts": {
       "Shoulders": [
-        "Upright Rows"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+        "Military Press"
       ],
       "Back": [
-        "Back Extension"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
-      ],
-      "Biceps": [
-        "Hammer Curls",
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls"
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
       ]
     },
-    "total": 12
+    "total": 4
   },
   {
     "date": "1662004800",
-    "workouts": {
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Leg Raises",
-        "Russian Twist"
-      ]
-    },
-    "total": 12
-  },
-  {
-    "date": "1662091200",
     "workouts": [],
     "total": 0
   },
   {
-    "date": "1662177600",
+    "date": "1662091200",
     "workouts": {
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
-      ],
       "Shoulders": [
-        "Upright Rows"
+        "Military Press"
       ],
       "Triceps": [
+        "Close-Grip Pushups",
         "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
+        "EX Bar Skullcrusher"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
       ],
       "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+        "Chest Dips",
+        "Incline Bench Press"
       ]
     },
-    "total": 8
+    "total": 11
+  },
+  {
+    "date": "1662177600",
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1662264000",
     "workouts": {
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
       ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls",
-        "Hammer Curls"
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
       ]
     },
     "total": 6
   },
   {
     "date": "1662350400",
-    "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls",
-        "Hammer Curls"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Deadbug",
-        "Leg Raises"
-      ]
-    },
-    "total": 7
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1662436800",
@@ -1946,315 +3895,336 @@
   {
     "date": "1662523200",
     "workouts": {
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
       "Shoulders": [
-        "Upright Rows"
+        "Military Press"
       ],
       "Abs": [
-        "Russian Twist",
-        "Deadbug",
-        "Leg Raises"
+        "Planks"
       ],
       "Biceps": [
-        "Hammer Curls",
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls"
-      ]
-    },
-    "total": 11
-  },
-  {
-    "date": "1662609600",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1662696000",
-    "workouts": {
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls",
-        "Hammer Curls"
-      ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ]
-    },
-    "total": 9
-  },
-  {
-    "date": "1662782400",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1662868800",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1662955200",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1663041600",
-    "workouts": {
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+        "Machine Bicep Curls"
       ],
       "Back": [
-        "Back Extension"
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
       ],
-      "Abs": [
-        "Russian Twist",
-        "Leg Raises",
-        "Deadbug"
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
       ],
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Hammer Curls",
-        "Dumbell Bicep Curls"
-      ],
-      "Shoulders": [
-        "Upright Rows"
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
       ]
     },
     "total": 10
   },
   {
-    "date": "1663128000",
-    "workouts": {
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ]
-    },
-    "total": 9
-  },
-  {
-    "date": "1663214400",
-    "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Deadbug",
-        "Leg Raises"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ]
-    },
-    "total": 11
-  },
-  {
-    "date": "1663300800",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1663387200",
+    "date": "1662609600",
     "workouts": {
       "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Biceps": [
-        "Hammer Curls",
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ]
-    },
-    "total": 7
-  },
-  {
-    "date": "1663473600",
-    "workouts": {
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ]
-    },
-    "total": 6
-  },
-  {
-    "date": "1663560000",
-    "workouts": {
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Back": [
-        "Back Extension"
-      ]
-    },
-    "total": 6
-  },
-  {
-    "date": "1663646400",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1663732800",
-    "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
+        "Pullup Shrug",
+        "Rack Pulls"
       ]
     },
     "total": 2
   },
   {
-    "date": "1663819200",
+    "date": "1662696000",
+    "workouts": {
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 8
+  },
+  {
+    "date": "1662782400",
+    "workouts": {
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 6
+  },
+  {
+    "date": "1662868800",
+    "workouts": {
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1662955200",
+    "workouts": {
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1663041600",
     "workouts": [],
     "total": 0
   },
   {
-    "date": "1663905600",
+    "date": "1663128000",
     "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
+      "Abs": [
+        "Planks"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
       ],
       "Biceps": [
-        "Dumbell Bicep Curls",
-        "Hammer Curls",
-        "Barbell Bicep Curls"
+        "Machine Bicep Curls"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1663214400",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1663300800",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 7
+  },
+  {
+    "date": "1663387200",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Back": [
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
+      ]
+    },
+    "total": 5
+  },
+  {
+    "date": "1663473600",
+    "workouts": {
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
+      ]
+    },
+    "total": 9
+  },
+  {
+    "date": "1663560000",
+    "workouts": {
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
       ],
       "Chest": [
         "Chest Dips",
-        "Cables Flyes"
+        "Incline Bench Press"
       ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
       ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 11
+  },
+  {
+    "date": "1663646400",
+    "workouts": {
       "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
       ],
       "Shoulders": [
-        "Upright Rows"
+        "Military Press"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
       ]
     },
     "total": 12
   },
   {
-    "date": "1663992000",
+    "date": "1663732800",
+    "workouts": {
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 9
+  },
+  {
+    "date": "1663819200",
+    "workouts": {
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ]
+    },
+    "total": 3
+  },
+  {
+    "date": "1663905600",
     "workouts": [],
     "total": 0
   },
   {
+    "date": "1663992000",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 1
+  },
+  {
     "date": "1664078400",
     "workouts": {
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Biceps": [
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls",
-        "Hammer Curls"
+      "Shoulders": [
+        "Military Press"
       ],
       "Triceps": [
         "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Back": [
-        "Back Extension"
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher"
       ]
     },
-    "total": 8
+    "total": 4
   },
   {
     "date": "1664164800",
     "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
       "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Leg Raises",
-        "Deadbug"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Back": [
-        "Back Extension"
+        "Incline Bench Press",
+        "Chest Dips"
       ]
     },
-    "total": 8
+    "total": 3
   },
   {
     "date": "1664251200",
@@ -2263,77 +4233,29 @@
   },
   {
     "date": "1664337600",
-    "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Russian Twist",
-        "Deadbug"
-      ]
-    },
-    "total": 8
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1664424000",
-    "workouts": {
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ]
-    },
-    "total": 4
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1664510400",
-    "workouts": {
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ]
-    },
-    "total": 2
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1664596800",
-    "workouts": {
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Hammer Curls",
-        "Dumbell Bicep Curls"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ]
-    },
-    "total": 8
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1664683200",
     "workouts": {
       "Chest": [
-        "Cables Flyes",
+        "Incline Bench Press",
         "Chest Dips"
       ]
     },
@@ -2341,45 +4263,83 @@
   },
   {
     "date": "1664769600",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ]
+    },
+    "total": 12
   },
   {
     "date": "1664856000",
     "workouts": {
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
       ],
       "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Back": [
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
       ]
     },
-    "total": 5
+    "total": 12
   },
   {
     "date": "1664942400",
     "workouts": {
-      "Back": [
-        "Back Extension"
-      ],
       "Shoulders": [
-        "Upright Rows"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
+        "Military Press"
       ],
       "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
+        "Hack Squat",
+        "Kettlebell Swings",
+        "Dumbbell RDL"
       ],
       "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Back": [
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
       ]
     },
     "total": 9
@@ -2392,138 +4352,149 @@
   {
     "date": "1665115200",
     "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Hammer Curls",
-        "Dumbell Bicep Curls"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
       ],
       "Shoulders": [
-        "Upright Rows"
+        "Military Press"
+      ],
+      "Back": [
+        "Deadlift",
+        "Incline Dumbbell Row",
+        "Bent-Over Row"
+      ],
+      "Legs": [
+        "Dumbbell RDL",
+        "Kettlebell Swings",
+        "Hack Squat"
       ]
     },
-    "total": 12
+    "total": 10
   },
   {
     "date": "1665201600",
     "workouts": {
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
       ],
-      "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns",
+        "Close-Grip Pushups"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
       ]
     },
-    "total": 5
+    "total": 14
   },
   {
     "date": "1665288000",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
+      ]
+    },
+    "total": 6
   },
   {
     "date": "1665374400",
-    "workouts": {
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ]
-    },
-    "total": 2
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1665460800",
     "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
-      ],
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
       "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ]
-    },
-    "total": 9
-  },
-  {
-    "date": "1665547200",
-    "workouts": {
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
+        "Pullup Shrug",
+        "Rack Pulls"
       ]
     },
     "total": 2
   },
   {
-    "date": "1665633600",
+    "date": "1665547200",
     "workouts": [],
     "total": 0
+  },
+  {
+    "date": "1665633600",
+    "workouts": {
+      "Abs": [
+        "Planks"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ],
+      "Biceps": [
+        "Machine Bicep Curls"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ]
+    },
+    "total": 7
   },
   {
     "date": "1665720000",
-    "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ]
-    },
-    "total": 8
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1665806400",
-    "workouts": {
-      "Back": [
-        "Back Extension"
-      ]
-    },
-    "total": 1
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1665892800",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ]
+    },
+    "total": 8
   },
   {
     "date": "1665979200",
@@ -2532,165 +4503,115 @@
   },
   {
     "date": "1666065600",
-    "workouts": {
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Deadbug",
-        "Leg Raises"
-      ],
-      "Back": [
-        "Back Extension"
-      ]
-    },
-    "total": 10
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1666152000",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1666238400",
     "workouts": {
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
+      "Legs": [
+        "Kettlebell Swings",
+        "Dumbbell RDL",
+        "Hack Squat"
       ]
     },
     "total": 3
   },
   {
-    "date": "1666238400",
-    "workouts": [],
-    "total": 0
-  },
-  {
     "date": "1666324800",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 3
   },
   {
     "date": "1666411200",
     "workouts": {
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
+      "Back": [
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
       ],
-      "Biceps": [
-        "Hammer Curls",
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls"
+      "Legs": [
+        "Dumbbell RDL",
+        "Hack Squat",
+        "Kettlebell Swings"
+      ],
+      "Shoulders": [
+        "Military Press"
       ]
     },
-    "total": 5
+    "total": 7
   },
   {
     "date": "1666497600",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1666584000",
+    "workouts": [],
+    "total": 0
+  },
+  {
+    "date": "1666670400",
     "workouts": {
-      "Back": [
-        "Back Extension"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
       ],
       "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
+        "Planks"
       ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Back": [
+        "Deadlift",
+        "Bent-Over Row",
+        "Incline Dumbbell Row"
       ]
     },
     "total": 8
   },
   {
-    "date": "1666584000",
-    "workouts": {
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Hammer Curls",
-        "Dumbell Bicep Curls"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Abs": [
-        "Deadbug",
-        "Leg Raises",
-        "Russian Twist"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ]
-    },
-    "total": 10
-  },
-  {
-    "date": "1666670400",
-    "workouts": {
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Russian Twist",
-        "Deadbug"
-      ],
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
-      ],
-      "Back": [
-        "Back Extension"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ]
-    },
-    "total": 13
-  },
-  {
     "date": "1666756800",
     "workouts": {
-      "Abs": [
-        "Leg Raises",
-        "Russian Twist",
-        "Deadbug"
-      ],
       "Biceps": [
-        "Hammer Curls",
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls"
+        "Machine Bicep Curls"
+      ],
+      "Back": [
+        "Bent-Over Row",
+        "Incline Dumbbell Row",
+        "Deadlift"
       ]
     },
-    "total": 6
+    "total": 4
   },
   {
     "date": "1666843200",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 3
   },
   {
     "date": "1666929600",
@@ -2700,105 +4621,126 @@
   {
     "date": "1667016000",
     "workouts": {
-      "Shoulders": [
-        "Upright Rows"
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
       ],
       "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
-      "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher"
       ],
       "Biceps": [
-        "Barbell Bicep Curls",
-        "Dumbell Bicep Curls",
-        "Hammer Curls"
+        "Machine Bicep Curls"
       ],
-      "Back": [
-        "Back Extension"
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
       ]
     },
-    "total": 9
+    "total": 10
   },
   {
     "date": "1667102400",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1667188800",
-    "workouts": [],
-    "total": 0
-  },
-  {
-    "date": "1667275200",
     "workouts": {
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
       "Back": [
-        "Back Extension"
-      ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Deadbug",
-        "Russian Twist"
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
       ],
       "Triceps": [
-        "Seated Triceps Press",
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
         "Cable Triceps Pushdowns"
       ]
     },
     "total": 8
   },
   {
+    "date": "1667188800",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher"
+      ]
+    },
+    "total": 4
+  },
+  {
+    "date": "1667275200",
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Back": [
+        "Deadlift",
+        "Incline Dumbbell Row",
+        "Bent-Over Row"
+      ],
+      "Triceps": [
+        "Close-Grip Pushups",
+        "EX Bar Skullcrusher",
+        "Cable Triceps Pushdowns"
+      ]
+    },
+    "total": 12
+  },
+  {
     "date": "1667361600",
     "workouts": {
       "Legs": [
-        "Bulgarian Split Squat",
-        "Glute Bridges"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
       ],
       "Shoulders": [
-        "Upright Rows"
+        "Military Press"
       ],
-      "Back": [
-        "Back Extension"
+      "Abs": [
+        "Planks"
       ]
     },
-    "total": 6
+    "total": 5
   },
   {
     "date": "1667448000",
     "workouts": {
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
       ],
-      "Shoulders": [
-        "Upright Rows"
+      "Biceps": [
+        "Machine Bicep Curls"
       ],
       "Chest": [
         "Chest Dips",
-        "Cables Flyes"
-      ],
-      "Abs": [
-        "Russian Twist",
-        "Leg Raises",
-        "Deadbug"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
+        "Incline Bench Press"
       ]
     },
-    "total": 10
+    "total": 5
   },
   {
     "date": "1667534400",
@@ -2808,142 +4750,254 @@
   {
     "date": "1667620800",
     "workouts": {
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Abs": [
-        "Leg Raises",
-        "Russian Twist",
-        "Deadbug"
-      ],
-      "Triceps": [
-        "Seated Triceps Press",
-        "Cable Triceps Pushdowns"
-      ],
       "Shoulders": [
-        "Upright Rows"
+        "Military Press"
       ],
       "Biceps": [
-        "Barbell Bicep Curls",
-        "Hammer Curls",
-        "Dumbell Bicep Curls"
+        "Machine Bicep Curls"
       ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
+      "Back": [
+        "Bent-Over Row",
+        "Deadlift",
+        "Incline Dumbbell Row"
       ]
     },
-    "total": 13
+    "total": 5
   },
   {
     "date": "1667707200",
-    "workouts": {
-      "Abs": [
-        "Deadbug",
-        "Russian Twist",
-        "Leg Raises"
-      ]
-    },
-    "total": 3
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1667797200",
-    "workouts": {
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
-      ]
-    },
-    "total": 2
+    "workouts": [],
+    "total": 0
   },
   {
     "date": "1667883600",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Legs": [
+        "Hack Squat",
+        "Dumbbell RDL",
+        "Kettlebell Swings"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ],
+      "Traps": [
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 11
   },
   {
     "date": "1667970000",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Abs": [
+        "Planks"
+      ]
+    },
+    "total": 10
   },
   {
     "date": "1668056400",
-    "workouts": [],
-    "total": 0
+    "workouts": {
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Triceps": [
+        "Cable Triceps Pushdowns",
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 14
   },
   {
     "date": "1668142800",
     "workouts": {
+      "Abs": [
+        "Planks"
+      ],
       "Shoulders": [
-        "Upright Rows"
+        "Military Press"
       ],
-      "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
       ]
     },
-    "total": 5
+    "total": 4
   },
   {
     "date": "1668229200",
     "workouts": {
-      "Shoulders": [
-        "Upright Rows"
-      ],
-      "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
-      ],
-      "Chest": [
-        "Chest Dips",
-        "Cables Flyes"
+      "Biceps": [
+        "Machine Bicep Curls"
       ]
     },
-    "total": 5
+    "total": 1
   },
   {
     "date": "1668315600",
     "workouts": {
+      "Abs": [
+        "Planks"
+      ],
       "Shoulders": [
-        "Upright Rows"
-      ],
-      "Legs": [
-        "Glute Bridges",
-        "Bulgarian Split Squat"
-      ],
-      "Biceps": [
-        "Hammer Curls",
-        "Dumbell Bicep Curls",
-        "Barbell Bicep Curls"
+        "Military Press"
       ],
       "Traps": [
-        "Snatch-Grip Barbell High Pull",
-        "Farmer's Walk"
-      ],
-      "Chest": [
-        "Cables Flyes",
-        "Chest Dips"
-      ],
-      "Triceps": [
-        "Cable Triceps Pushdowns",
-        "Seated Triceps Press"
+        "Pullup Shrug",
+        "Rack Pulls"
       ]
     },
-    "total": 12
+    "total": 4
   },
   {
     "date": "1668402000",
     "workouts": {
       "Traps": [
-        "Farmer's Walk",
-        "Snatch-Grip Barbell High Pull"
+        "Rack Pulls",
+        "Pullup Shrug"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Back": [
+        "Incline Dumbbell Row",
+        "Deadlift",
+        "Bent-Over Row"
+      ]
+    },
+    "total": 9
+  },
+  {
+    "date": "1668488400",
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
       ]
     },
     "total": 2
+  },
+  {
+    "date": "1668574800",
+    "workouts": {
+      "Back": [
+        "Incline Dumbbell Row",
+        "Bent-Over Row",
+        "Deadlift"
+      ],
+      "Chest": [
+        "Chest Dips",
+        "Incline Bench Press"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ]
+    },
+    "total": 9
+  },
+  {
+    "date": "1668661200",
+    "workouts": {
+      "Biceps": [
+        "Machine Bicep Curls"
+      ]
+    },
+    "total": 1
+  },
+  {
+    "date": "1668747600",
+    "workouts": {
+      "Traps": [
+        "Pullup Shrug",
+        "Rack Pulls"
+      ],
+      "Abs": [
+        "Planks"
+      ],
+      "Legs": [
+        "Kettlebell Swings",
+        "Hack Squat",
+        "Dumbbell RDL"
+      ],
+      "Triceps": [
+        "EX Bar Skullcrusher",
+        "Close-Grip Pushups",
+        "Cable Triceps Pushdowns"
+      ],
+      "Shoulders": [
+        "Military Press"
+      ],
+      "Chest": [
+        "Incline Bench Press",
+        "Chest Dips"
+      ]
+    },
+    "total": 12
+  },
+  {
+    "date": "1668834000",
+    "workouts": [],
+    "total": 0
   }
 ]

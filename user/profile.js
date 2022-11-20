@@ -1,5 +1,4 @@
 import {exerciseList } from './data.js'
-console.log(exerciseList)
 
 let fields = {
     'username': 'Test User',

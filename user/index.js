@@ -1,4 +1,4 @@
-import fields from './profile.js'
+// import fields from './profile.js'
 import workouts from './workouts.json' assert {type: 'json'};
 
 function getRandomArbitrary(min, max) {
@@ -16,6 +16,29 @@ for (let x of workouts){
     // console.log(d, JSON.stringify(lens))
 }
 
+let muscle_totals = {};
+for (let m in muscle_datasets){
+  let total = muscle_datasets[m].map((x) => x.total).reduce((a, b) => a + b, 0);
+  muscle_totals[m] = total 
+}
+// console.log(muscle_datasets)
+
+let muscle_months = {}
+for (let m in muscle_datasets){
+  let dates = muscle_datasets[m]
+  let months = {};
+  dates.forEach((x)=>{
+    const dt = new Date(x.date*1000);
+    const month =  dt.toLocaleString('default', { month: 'long' });
+    //dt.getMonth()
+    if (!(month in months))
+      months[month]= 0
+    months[month] += x.total 
+  })
+  muscle_months[m] = months;
+}
+console.log(muscle_months)
+
 let datasets = [{
             label: 'Total Daily Exercises',
             data: workouts,
@@ -28,7 +51,7 @@ let datasets = [{
 
 Object.entries(muscle_datasets).forEach(([k,v])=>{
     datasets.push({
-        label:`Muscle Group (${k})`,
+        label:`${k} Workouts`,
         data: v,
         hidden: true,
         parsing:{
@@ -37,6 +60,100 @@ Object.entries(muscle_datasets).forEach(([k,v])=>{
         }
     })
 })
+
+
+
+function get_lastn_days(n){
+  let muscles = {};
+  for (let m in muscle_datasets){
+    let total = muscle_datasets[m].map((x) => {
+      const dt = new Date(x.date*1000);
+      const now = Date.now();
+      const diffTime = Math.abs(now - dt);
+      const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)); 
+      return  (diffDays < n) ? x.total : 0
+    }).reduce((a, b) => a + b, 0);
+    muscles[m] = total
+  }
+  return muscles
+
+}
+
+const muscles_lastweek = get_lastn_days(14);
+const muscles_lastmonth = get_lastn_days(30);
+const muscles_lastyear = get_lastn_days(365);
+
+const donut_data = {
+  labels : Object.keys(muscle_totals),
+  datasets: [
+    {
+      label: 'Total Muscle Distribution in Exercises',
+      data: Object.values(muscle_totals)
+    },
+    {
+      label: 'Workouts Last Year',
+      data: Object.values(muscles_lastyear),
+    },
+    {
+      label: 'Workouts Last Month',
+      data: Object.values(muscles_lastmonth)
+    },
+    {
+      label: 'Workouts Last Week',
+      data: Object.values(muscles_lastweek)
+    },
+  ]
+}
+const monthNames = ["January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+];
+
+const radar_data = {
+  labels : monthNames,
+  datasets: Object.entries(muscle_months).map(([k,v]) =>{ 
+    return {
+      label: k,
+      data : monthNames.map((m) =>{
+        return (m in v) ? v[m] : 0
+      }),
+    }
+  }), 
+}
+const radar = document.getElementById('radar');
+  new Chart(radar, {
+    type: 'radar',
+    data: radar_data,
+    options: {
+      responsive: true,
+      plugins: {
+        legend: {
+          position: 'top',
+        },
+        title: {
+          display: true,
+          text: 'Monthly Breakdown per Muscle'
+        }
+      }
+    },
+  });
+
+const donut1 = document.getElementById('donut');
+  new Chart(donut1, {
+    type: 'doughnut',
+    data: donut_data,
+    options: {
+      responsive: true,
+      plugins: {
+        legend: {
+          position: 'top',
+        },
+        title: {
+          display: true,
+          text: 'Weekly, Monthly, Yearly Totals'
+        }
+      }
+    },
+  });
 
 const ctx = document.getElementById('myChart');
 
