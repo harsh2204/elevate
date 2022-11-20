@@ -11,6 +11,11 @@ if (added_exercises.length === 0) {
     document.getElementById("added-exercises").appendChild(msg);
 }
 
+const triggerModal = (e) => {
+    const discardBtn = document.getElementById("discard-button-modal");
+    discardBtn.href = e.target.href;
+}
+
 const closeAlert = () => {
     const alert = document.querySelector(".alert");
     alert.style = "display: none";
