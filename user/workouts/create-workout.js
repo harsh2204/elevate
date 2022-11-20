@@ -1,6 +1,7 @@
 // State
 filters = new Set();
 let added_exercises = []
+count_of_exercises = 0;
 
 // Display msg if added exercises is 0
 if (added_exercises.length === 0) {
@@ -99,12 +100,15 @@ const closeAddExerciseDiv = () => {
     const msg = document.querySelector(".no-workouts-msg");
     if (msg) msg.style = "display: block";
 
-    // Clear input
-    document.getElementById("filter-exercises").reset();
+    // Reset form and clear filters
+    let form = document.querySelector('#filter-exercises');
+    form.reset();
+    filters.clear();
 }
 
 const listExercises = (e) => {
     if (e) e.preventDefault();
+    count_of_exercises = 0;
 
     // Check input
     const search_input = document.getElementById("exercise-search");
@@ -124,15 +128,12 @@ const listExercises = (e) => {
                 createExerciseDiv(key, exerciseObject);
         }
     }
+    document.getElementById("count_of_exercises").innerHTML = `(${count_of_exercises})`
     openAddExerciseDiv();
 }
 
 const cancelAddExercise = () => {
     closeAddExerciseDiv();
-
-    // Reset form
-    let form = document.querySelector('#filter-exercises');
-    form.reset();
 }
 
 const handleChange = (e) => {
@@ -152,6 +153,7 @@ const handleInput = (e) => {
     // Clear current exercises
     const list_of_exer_div = document.getElementById("list-of-exercises");
     list_of_exer_div.innerHTML = '';
+    count_of_exercises = 0;
 
     // Show exercises that start with search input
     for (const [key, value] of Object.entries(exerciseList)) {
@@ -166,16 +168,18 @@ const handleInput = (e) => {
             }
         }
     }
+    document.getElementById("count_of_exercises").innerHTML = `(${count_of_exercises})`
 }
 
 const createExerciseDiv = (exerciseGroup, exerciseObject) => {
+    count_of_exercises += 1;
     const list_of_exer_div = document.getElementById("list-of-exercises");
     const exerciseDiv = document.createElement("div");
 
     exerciseDiv.classList.add(`list-of-exercises__${exerciseGroup}`);
     exerciseDiv.classList.add(`list-group-item`);
     exerciseDiv.innerHTML = `
-        <p class="list-of-exercises__name">${exerciseObject.exercise}</p>
+        <p class="list-of-exercises__name">${exerciseObject.exercise} (${exerciseGroup})</p>
         <div class="list-of-exercises__add tooltip1">
             <span 
                 class="list-of-exercises__add__btn"
@@ -232,10 +236,6 @@ const addExercise = (e) => {
     `
     const added_exercises_div = document.querySelector(".added-exercises-list");
     added_exercises_div.appendChild(exerciseDiv);
-
-    // Hide add exercise div
-    const add_exercise_div = document.getElementById('add-exercise');
-    add_exercise_div.style = "display: none"
 
     // Clear no workouts msg
     const msg = document.querySelector(".no-workouts-msg");
