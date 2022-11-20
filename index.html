@@ -7,10 +7,14 @@
   <link rel="stylesheet" href="/lib/bootstrap.css" type="text/css"/>
   <script type="text/javascript" src="/lib/bootstrap.bundle.js"></script>
   <script type="text/javascript" src="/lib/jquery-3.6.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://canvasjs.com/assets/script/canvasjs.min.js"> </script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+  <script src="index.js" type="module"></script>
   <title>Elevate Fitness</title>
 </head>
 <body>
-  <h1>Elevate fitness homepage</h1>
+  <h1 class="text-center">Elevate Fitness</h1>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,6 +45,25 @@
       </ul>
     </div>
   </div>
-</nav>
+  </nav>
+  <div class="content container bootstrap snippets">
+    <div class="d-flex justify-content-between">
+      <h5>Last Workout:
+        <script> document.write(new Date().toLocaleDateString()); </script>
+      </h5>
+      <h5>Welcome: User <i class="bi bi-person-circle"></i></h5>
+    </div>
+    <h4 class="text-center">Week At A Glance</h4>
+    <select class="dropdown" id="dd">
+      <option value="dt" selected="selected">Distance Travelled (km)</option>
+      <option value="wt">Weight Lifted (lbs)</option>
+    </select>
+    <div id="chartContainer" style="height: 360px; width: 100%;"></div>
+  </div>
+  <div class="d-flex justify-content-center">
+    <a class="btn btn-primary m-3" role="button">Start Workout</a>
+    <a class="btn btn-primary m-3" href="#" role="button">Create New Workout</a>
+  </div>
 </body>
+<script src="index.js" type="module"></script>
 </html>
