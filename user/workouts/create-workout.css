@@ -1,0 +1,131 @@
+/* General */
+h1 {
+    text-align: center;
+}
+
+p {
+    margin: 0;
+}
+
+/* Add exercise */
+#add-exercise {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+.add-exercise__header {
+    display: flex;
+    align-items: center;
+}
+
+.add-exercise__header__title {
+    flex: 1;
+}
+
+/* List of each exercise */
+.list-group-item {
+    display: flex;
+    align-items: center;
+}
+
+#list-of-exercises {
+    max-height: 500px;
+    overflow: scroll;
+}
+
+.list-of-exercises__name {
+    flex: 1;
+}
+
+/* Add exercise button */
+.list-of-exercises__add__btn {
+    cursor: pointer;
+    box-sizing: content-box;
+    padding: 0.25em 0.25em;
+    color: #000;
+    border: 0;
+    border-radius: 0.25rem;
+    opacity: .5;
+    font-size: 1.5rem;
+}
+
+.list-of-exercises__add__btn:hover {
+    color: #000;
+    text-decoration: none;
+    opacity: .75;
+}
+
+/* Tooltip */
+.tooltip1 {
+    position: relative;
+    display: inline-block;
+}
+  
+.tooltip1 .tooltiptext {
+    visibility: hidden;
+    width: 100px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    font-size: 0.8rem;
+
+    position: absolute;
+    z-index: 1;
+    right: 115%;
+    top: 5px;
+}
+
+.tooltip1:hover .tooltiptext {
+    visibility: visible;
+}
+
+.tooltip1 .tooltiptext::after {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    left: 100%; /* To the right of the tooltip */
+    margin-top: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent transparent black;
+}
+
+.tooltiptext2 {
+    top: -1px !important;
+    width: 120px !important;
+}
+
+/* Filter by muscle group */
+.filter {
+    background: rgba(0,0,0,.03);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* Add exercise button */
+#add-exercise-btn {
+    display: block;
+    margin-bottom: 30px;
+    font-size: 0.8rem;
+    margin-top: 5px;
+}
+
+/* No workouts msg */
+.no-workouts-msg {
+    font-style: italic;
+    color: rgba(0,0,0,.5);
+    font-size: 0.9rem;
+}
+
+/* Added exercise */
+.added-exercise {
+    display: flex;
+    margin-top: 5px;
+}
+
+.added-exercise-name {
+    flex: 1;
+}

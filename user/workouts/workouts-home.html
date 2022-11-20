@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link href="./workouts-home.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Workouts</h1>
+
+            <!-- Saved workouts -->
+            <div id="my-workouts">
+                <h2>My saved workouts</h2>
+            </div>
+    
+            <!-- Create custom workout -->
+            <a class="btn btn-primary" href="./create-workout.html">Create custom workout</a>
+        </div>
+    </body>
+    <script>
+        const createWorkoutDiv = (workoutObject) => {
+            const my_workouts_div = document.getElementById("my-workouts");
+
+            const workoutDiv = document.createElement("div");
+            workoutDiv.id = `exercise-${workoutObject.id}`;
+
+            workoutDiv.innerHTML = `
+                <p class="list-group-item">${workoutObject.name}</p>
+            `
+            my_workouts_div.appendChild(workoutDiv);
+        }
+
+        let user_workouts = []
+
+        if (localStorage.user_workouts) {
+            user_workouts = JSON.parse(localStorage.user_workouts);
+        }
+
+        // Display workouts
+        for (const workout of user_workouts) {
+            createWorkoutDiv(workout);
+        }
+    </script> 
+</html>
