@@ -27,8 +27,8 @@ def date_range(x, y, inclusive=False):
         raise TypeError("Parameters x and y should be dates.")
 
 
-st = date(2022, 5, 1)
-ed = date(2022, 11, 15)
+st = date(2022, 1, 1)
+ed = date.today() #date(2022, 11, 15)
 
 output = []
 # for dt in daterange(st, ed):
@@ -46,7 +46,7 @@ for dt in date_range(st, ed):
         data['workouts'] = []
         data['total'] = 0
         output.append(data)
-    print(dt, data['total'])
+    # print(dt, data['total'])
 with open('user/workouts.json', 'w') as F:
     json.dump(output, F, indent=2)
     
