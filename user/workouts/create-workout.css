@@ -7,6 +7,19 @@ p {
     margin: 0;
 }
 
+/* Search bar */
+#exercise-search {
+    position: relative;
+    padding-left: 35px;
+}
+
+.fa-search {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11px;
+    margin-left: 10px;
+}
+
 /* Add exercise */
 #add-exercise {
     margin: 20px;

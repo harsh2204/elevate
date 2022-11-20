@@ -29,6 +29,7 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                       <li><a class="dropdown-item" href="./workouts-home.html">My workouts</a></li>
                       <li><a class="dropdown-item" href="./create-workout.html">Create workout</a></li>
+                      <li><a class="dropdown-item" href="./explore-workouts.html">Explore workouts</a></li>
                     </ul>
                   </li>
                 </ul>
@@ -46,6 +47,9 @@
     
             <!-- Create custom workout -->
             <a class="btn btn-primary" href="./create-workout.html">Create custom workout</a>
+
+            <!-- Explore pre-defined workouts -->
+            <a class="btn btn-secondary" href="./explore-workouts.html">Explore pre-defined workouts</a>
         </div>
     </body>
     <script>
@@ -56,7 +60,10 @@
             workoutDiv.id = `exercise-${workoutObject.id}`;
 
             workoutDiv.innerHTML = `
-                <p class="list-group-item">${workoutObject.name}</p>
+                <li class="list-group-item">
+                    <p>${workoutObject.name}</p>
+                    <div class="arrow-right"></div>
+                </li>
             `
             my_workouts_div.appendChild(workoutDiv);
         }

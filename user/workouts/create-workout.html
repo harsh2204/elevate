@@ -43,6 +43,8 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                       <li><a class="dropdown-item" href="./workouts-home.html" data-toggle="modal" data-target="#exampleModal" onclick="triggerModal(event)">My workouts</a></li>
+                      <li><a class="dropdown-item" href="./create-workout.html" data-toggle="modal" data-target="#exampleModal" onclick="triggerModal(event)">Create workout</a></li>
+                      <li><a class="dropdown-item" href="./explore-workouts.html" data-toggle="modal" data-target="#exampleModal" onclick="triggerModal(event)">Explore workouts</a></li>
                     </ul>
                   </li>
                 </ul>
@@ -69,7 +71,7 @@
                 </div>
 
                 <form id="filter-exercises" onchange="handleChange(event)">
-                    <i class="fa-light fa-magnifying-glass"></i>
+                    <i class="fas fa-search"></i>
                     <input id="exercise-search" class="form-control" oninput="handleInput(event)" type="text" placeholder="Search for a exercise..."><br/>
                     <div class="filter">
                         <h4>Filter by muscle group</h4>
