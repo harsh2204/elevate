@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Signup - Elevate</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="../lib/bootstrap.min.css" type="text/css" />
+  <!-- <link rel="stylesheet" href="../lib/bootstrap.css" type="text/css"/> -->
+</head>
+
+<body>
+  <div class="center">
+    <h1 class="display-3">Elevate Signup</h1>
+    <!-- <h1>Elevate</h1> -->
+    <form action="/user/home.html" method="get">
+      <div class="form-group">
+        <label class="col-lg-3 control-label">Birthday</label>
+        <div class="col-lg-12">
+          <input class="form-control birthday" id="date" type="date" value="1994-03-21">
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="col-lg-3 control-label">Height</label>
+        <div class="col-lg-12">
+
+          <div class="input-group mb-3">
+            <input type="number" class="form-control" placeholder="185">
+            <span class="input-group-text">cm</span>
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="col-lg-3 control-label">Weight</label>
+        <div class="col-lg-12">
+
+          <div class="input-group mb-3">
+            <input type="number" class="form-control" placeholder="135">
+            <span class="input-group-text">lbs</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label class="col-lg-3 control-label">Bodyfat</label>
+        <div class="col-lg-12">
+
+          <div class="input-group mb-3">
+            <input type="number" class="form-control" placeholder="7">
+            <span class="input-group-text">%</span>
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="col-lg control-label">Workout Preferences</label>
+        <div class="col-lg-8 w-100">
+          <div class="container-lg mb-3">
+            <input type="checkbox" class="btn-check" id="btn-check-chest" autocomplete="off"><label
+              class="px-2 btn btn-outline-primary" for="btn-check-chest">Chest</label>
+            <input type="checkbox" class="btn-check" id="btn-check-biceps" autocomplete="off"><label
+              class="px-2 btn btn-outline-primary" for="btn-check-biceps">Biceps</label>
+            <input type="checkbox" class="btn-check" id="btn-check-back" autocomplete="off"><label
+              class="px-2 btn btn-outline-primary" for="btn-check-back">Back</label>
+            <input type="checkbox" class="btn-check" id="btn-check-triceps" autocomplete="off"><label
+              class="px-2 btn btn-outline-primary" for="btn-check-triceps">Triceps</label>
+            <input type="checkbox" class="btn-check" id="btn-check-shoulders" autocomplete="off"><label
+              class="px-2 btn btn-outline-primary" for="btn-check-shoulders">Shoulders</label>
+            <input type="checkbox" class="btn-check" id="btn-check-abs" autocomplete="off"><label
+              class="px-2 btn btn-outline-primary" for="btn-check-abs">Abs</label>
+            <input type="checkbox" class="btn-check" id="btn-check-legs" autocomplete="off"><label
+              class="px-2 btn btn-outline-primary" for="btn-check-legs">Legs</label>
+            <input type="checkbox" class="btn-check" id="btn-check-traps" autocomplete="off"><label
+              class="px-2 btn btn-outline-primary" for="btn-check-traps">Traps</label>
+          </div>
+        </div>
+      </div>
+
+      <input type="submit" value="Signup">
+    </form>
+  </div>
+
+</body>
+
+</html>
