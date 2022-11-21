@@ -182,12 +182,14 @@ const createExerciseDiv = (exerciseGroup, exerciseObject) => {
     exerciseDiv.classList.add(`list-of-exercises__${exerciseGroup}`);
     exerciseDiv.classList.add(`list-group-item`);
     exerciseDiv.innerHTML = `
-        <p class="list-of-exercises__name">${exerciseObject.exercise} (${exerciseGroup})</p>
+        <p id="list-of-exercises__${exerciseObject.id}" class="list-of-exercises__name">${exerciseObject.exercise} (${exerciseGroup})</p>
         <div class="list-of-exercises__add tooltip1">
             <span 
                 class="list-of-exercises__add__btn"
                 data-id=${exerciseObject.id} 
-                onClick="addExercise(event)">
+                onClick="addExercise(event)"
+                onMouseOver="plusHover(${exerciseObject.id})"
+                onMouseLeave="plusHover(${exerciseObject.id})">
 
                 &plus;
             </span>
@@ -195,6 +197,15 @@ const createExerciseDiv = (exerciseGroup, exerciseObject) => {
         </div>
     `
     list_of_exer_div.appendChild(exerciseDiv);
+}
+
+const plusHover = (id) => {
+    const p_tag = document.getElementById(`list-of-exercises__${id}`);
+    if (p_tag.style.fontWeight) {
+        p_tag.style = ''
+    } else {
+        p_tag.style = 'font-weight: bold';
+    }
 }
 
 const addExercise = (e) => {
