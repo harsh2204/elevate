@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+
 body{
   margin: 0;
   padding: 0;
@@ -12,6 +13,7 @@ body{
   height: 100vh;
   overflow: hidden;
 }
+
 .center{
   position: absolute;
   top: 50%;
@@ -20,14 +22,16 @@ body{
   width: 40rem;
   background: lavender;
   padding: 3rem;
-  border-radius: 10px;
+  border-radius: 40px;
   box-shadow: 10px 10px 15px rgba(0,0,0,0.05);
 }
+
 .center h1{
   text-align: center;
   padding: 20px 0;
   border-bottom: 1px solid silver;
 }
+
 .center form{
   padding: 0 40px;
   box-sizing: border-box;
