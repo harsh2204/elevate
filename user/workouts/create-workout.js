@@ -9,7 +9,8 @@ if (added_exercises.length === 0) {
     msg.innerHTML = "Your workout currently has no exercises. Click the 'Add Exercise' button to add one.";
     msg.className = "no-workouts-msg";
 
-    document.getElementById("added-exercises").appendChild(msg);
+    if (document.getElementById("added-exercises"))
+        document.getElementById("added-exercises").appendChild(msg);
 }
 
 const triggerModal = (e) => {
@@ -38,7 +39,6 @@ const saveWorkout = () => {
 
         // Highlight input
         name_input.style = "background-color: #f8d7da; border-color: #f5c2c7;"
-
         return
     }
 
@@ -68,6 +68,9 @@ const saveWorkout = () => {
         user_workouts = [workout]
     }
     localStorage.user_workouts = JSON.stringify(user_workouts);
+
+    // Save alert to localstorage
+    localStorage.setItem("suc-alert", workout.name);
 
     // Redirect to workouts-home
     location.href = 'workouts-home.html';
