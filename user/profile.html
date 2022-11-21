@@ -10,6 +10,11 @@
   <script type="text/javascript" src="../lib/jquery-3.6.1.min.js"></script>
   <script type="text/javascript" src="../lib/multiselect-dropdown.js"></script>
   <title>Profile</title>
+  <style>
+.multiselect-dropdown-list{
+  color:darkslategray
+}
+  </style>
 </head>
 <body>
   <!-- <h1>Elevate fitness homepage</h1> -->
@@ -280,7 +285,7 @@ Object.entries(fields).forEach(([k,v])=>{
         input = `
             <select id="user_pref" class="form-select" multiple>
                 ${exerciseList.map((val, idx)=>{
-                    return `<option value="${idx+1}" ${(v.includes(idx+1) ? 'selected' : '')}>${val.muscle}</option>`
+                    return `<option class="text-dark" value="${idx+1}" ${(v.includes(idx+1) ? 'selected' : '')}>${val.muscle}</option>`
                 })}
             </select>
         `
