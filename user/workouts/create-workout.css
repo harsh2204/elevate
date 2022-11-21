@@ -142,3 +142,9 @@ p {
 .added-exercise-name {
     flex: 1;
 }
+
+/* Cancel modal button */
+#cancel-modal-btn {
+    background-color: rgba(0,0,0,0.3) !important;
+    border: 1px solid rgba(0,0,0,0.1) !important;
+}

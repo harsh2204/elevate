@@ -38,7 +38,7 @@ const saveWorkout = () => {
         alert_msg.innerHTML = "<strong>Error:</strong> A workout must include a name!";
 
         // Highlight input
-        name_input.style = "background-color: #f8d7da; border-color: #f5c2c7;"
+        name_input.style = "background-color: rgba(255,121,80, 0.3); border-color: rgba(255,121,80, 0.5);"
         return
     }
 
